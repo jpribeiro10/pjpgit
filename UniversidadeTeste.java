@@ -13,6 +13,7 @@ public class UniversidadeTeste {
         System.out.println("Salário do Professor: R$ " + prof.calcSalario());
         System.out.println("Salário do Técnico (sem hora extra): R$ " + tecnico.calcSalario());
         System.out.println("Salário do Técnico (com hora extra): R$ " + tecnico.calcSalario(10, 50));
+        System.out.println("Teste de commit teste");
     }
 }
 
